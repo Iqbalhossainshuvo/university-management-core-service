@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\.72362a44d8096c207c83d98dc0c361f6e55f6c7b-audit.json",
+    "files": [
+        {
+            "date": 1692682935493,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-22-08-11-error.log",
+            "hash": "0a4da8fb20ed58198b437b74bbbaf2fef286d4ab8f2316464bd3620f0803af6f"
+        },
+        {
+            "date": 1692684155592,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-22-08-12-error.log",
+            "hash": "234114ce98a4e5a7271f6d2e0161d718de5c315d8c5b168d628d5a6ad2395143"
+        },
+        {
+            "date": 1692687662971,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-22-08-13-error.log",
+            "hash": "ad21d0f5dc8c2c3c897dacb3559b64b045593297d0d86a1db5522548e16242de"
+        },
+        {
+            "date": 1692718165190,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-22-08-21-error.log",
+            "hash": "8f4c0f1b5698d1e5bfe6280da3376de46dac9d00b0516d17dd28ea7876b64cd9"
+        },
+        {
+            "date": 1692720017813,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-22-08-22-error.log",
+            "hash": "e8941f31cdc3f3e640df1c94a1f4e52e6231431619efa6b147866061c2d5081c"
+        },
+        {
+            "date": 1692765616661,
+            "name": "C:\\allProject\\Database Design\\university-management-core-service\\logs\\winston\\errors\\phu-2023-23-08-10-error.log",
+            "hash": "8ea9d5e750a05662f1b002a386e0d5cc7d36d971964bc9a937f8fcc720be3510"
+        }
+    ],
+    "hashType": "sha256"
+}
